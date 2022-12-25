@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: lightblue;
+}
+header {
+    border: 2px solid blue;
+}
+header {
+    border-radius: 25px;
+}
+header {
+    padding: 10px;
+}
+nav a {
+    margin: 25px;
+    padding: 8px;
+    font-size: 20px;
+    text-decoration: none;
+    color: darkblue;
+    border: 2px solid rgb(0, 0, 255);
+    border-radius: 25px;
+    background-color: lightblue;
+}
+h1 {
+    font-size: 45px;
+    color: darkblue;
+    background-color: lightblue;
+    border-radius: 20px;
+    padding: 5px;
+    text-align: center;
+    border: 2px solid darkblue;
+}
+footer p {
+    background-color: orange;
+    color: black;
+    padding: 7px;
+    border-radius: 15px;
+}
+.class {
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+nav {
+    padding: 20px;
+}
